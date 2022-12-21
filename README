@@ -1,0 +1,7 @@
+Instructions:
+Run:
+    1. First type make in the command line to create the executable file.
+    2. Then type ./fifteen and then a number to run the program.
+    3. Optionally, you can type < and a text file to auto run the program. Please make sure the file exists.
+Clean:
+    1. To remove all executables and object code, type make clean.
